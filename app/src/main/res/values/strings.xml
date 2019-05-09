@@ -1,0 +1,209 @@
+<resources>
+    <string name="app_name">October 360</string>
+
+    <!-- Main Places -->
+
+
+    <string name="OctoberZayed">October \u0026 Zayed</string>
+
+
+    <!-- Coffee Shops -->
+
+
+    <string name="UNOCafe">UNO Cafe</string>
+
+    <string name="FairouzCafe">Fairouz Cafe</string>
+
+    <string name="CostaCafe">Costa Cafe</string>
+
+    <string name="ZampaletaCafe">Zampaleta Cafe</string>
+
+    <string name="InfinityCafe">Infinity Cafe</string>
+
+    <string name="FutureCafe">Future Cafe</string>
+
+    <string name="TartinoHoffeCafe">Tartino \u0026 Hoffe Cafe</string>
+
+
+    <!-- Co-Working Spaces -->
+
+
+    <string name="TheZone">The Zone</string>
+
+    <string name="Villa307">Villa 307</string>
+
+    <string name="Bosla">Bosla</string>
+
+    <string name="Hashtags">Hashtags</string>
+
+    <!-- Hyper Markets -->
+
+
+    <string name="HyperOne">Hyper One</string>
+
+    <string name="PandaSuper">Panda Super</string>
+
+
+    <!-- Restaurants -->
+
+
+    <string name="ChickenFilA">Chicken Fil-A</string>
+
+    <string name="Lillys">Lilly’s</string>
+
+    <string name="Maharaja">Maharaja</string>
+
+    <string name="PortaDoro">Porta D‘oro</string>
+
+    <string name="ZacksFriedChicken">Zack’s Fried Chicken</string>
+
+    <string name="Rosto">Rosto</string>
+
+    <!-- Shoppings -->
+
+    <string name="MallofEgypt">Mall of Egypt</string>
+
+    <string name="MallofArabia">Mall of Arabia</string>
+
+    <string name="CityscapeMall">Cityscape Mall</string>
+
+    <string name="AmericanaPlazaMall">Americana Plaza Mall</string>
+
+    <string name="ArkanPlazaMall">Arkan Plaza Mall</string>
+
+    <string name="CapitalBusinessPark">Capital Business Park</string>
+
+    <string name="FamilyMall">Family Mall</string>
+
+    <string name="AlMorshedy">Al Morshedy</string>
+
+
+    <!-- Location Uri -->
+
+    <string name="Uri1">http://maps.google.com/maps?q=loc:</string>
+
+    <string name="Uri2">,</string>
+
+    <string name="Uri3"> (</string>
+
+    <string name="Uri4">)</string>
+
+
+
+
+    <!-- Google Maps Class App Appering -->
+
+    <string name="packageName">com.google.android.apps.maps</string>
+
+    <string name="className">com.google.android.maps.MapsActivity</string>
+
+
+    <!-- Banks Name -->
+
+    <string name="HSBC">HSBC</string>
+
+    <string name="Alex">Alex</string>
+
+    <string name="QNB">QNB</string>
+
+    <string name="NBE">NBE</string>
+
+    <string name="CIB">CIB</string>
+
+    <string name="CairoBank">Cairo Bank</string>
+
+    <string name="MisrBank">Misr Bank</string>
+
+    <string name="AudiBank">Audi Bank</string>
+
+
+    <!-- HSBC Branches -->
+
+    <string-array name="HSBCBranches">
+
+        <item>Arkan Branch</item>
+        <item>Hyper One Branch</item>
+        <item>Mall of Egypt Branch</item>
+
+
+    </string-array>
+
+
+    <!-- Alex Branches -->
+
+    <string-array name="AlexBranches">
+
+        <item>First Industrial Area Branch</item>
+        <item>Special District Branch</item>
+        <item>Zayed City Center Branch</item>
+
+
+    </string-array>
+
+
+    <!-- QNB Branches -->
+
+    <string-array name="QNBBranches">
+
+        <item>Fourth Industrial Area Branch</item>
+        <item>Special District Branch</item>
+
+    </string-array>
+
+
+    <!-- QNB Branches -->
+
+    <string-array name="NBEBranches">
+
+        <item>El Hosary Branch</item>
+        <item>Special District Branch</item>
+
+    </string-array>
+
+
+    <!-- CIB Branches -->
+
+    <string-array name="CIBBranches">
+
+        <item>El Hosary Branch</item>
+        <item>El Shiekh Zayed Branch</item>
+
+    </string-array>
+
+
+    <!-- Cairo Bank Branches -->
+
+    <string-array name="CairoBranches">
+
+        <item>El Hosary Branch</item>
+        <item>Special District Branch</item>
+
+    </string-array>
+
+
+    <!-- Misr Bank Branches -->
+
+    <string-array name="MisrBranches">
+
+        <item>El Hosary Branch</item>
+        <item>Special District Branch</item>
+        <item>Mall of Egypt Branch</item>
+
+
+    </string-array>
+
+
+    <!-- Audi Bank Branches -->
+
+    <string-array name="AudiBranch">
+
+        <item>El Hosary Branch</item>
+
+
+    </string-array>
+
+
+
+
+
+</resources>
